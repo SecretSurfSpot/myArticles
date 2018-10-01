@@ -1,24 +1,7 @@
-# README
+# Ruby on Rails Backend API Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Ruby on Rails Backend API Application which connects to a sqlite3 flatfile database.
 
-Things you may want to cover:
+All required code is contained within this repository.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Please read the RoR-API v01 document, held in the 'supportingDocuments' directory.

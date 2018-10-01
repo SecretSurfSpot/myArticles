@@ -38,6 +38,7 @@ group :development do
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
+  # Use faker - A library for generating fake data such as names, addresses, and phone numbers (and titles and bodys, as used in the seeds.rb file)
   gem 'faker'
 end
 
